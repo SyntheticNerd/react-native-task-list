@@ -1,4 +1,4 @@
-# RNCourse
+# React Native Task List
 
 ## Start up
 
